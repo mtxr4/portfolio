@@ -79,6 +79,8 @@
 }
 .card_blog{
     width: 260px;
+    display: flex;
+    justify-content: space-between;
     padding-bottom: 25px;
     margin-bottom: 30px;
     display: flex;
