@@ -88,6 +88,12 @@
     align-items: center;
     box-shadow: 0 0 15px 0 #eadcd6;
 }
+.l{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding-left: 380px;
+}
 .card_title{
     color: #dd4400;
     font-weight: 700;
